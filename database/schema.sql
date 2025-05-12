@@ -152,4 +152,4 @@ INSERT INTO categories (name, description) VALUES
 
 -- Insert default admin user (password: admin123)
 INSERT INTO users (username, email, password, first_name, last_name, role) VALUES
-('admin', 'admin@artloop.com', '$2y$10$8MNE5ERJJl7.jlr9CVsKZ.UvRfgXIZDsGH.wR.FMl8t4cCCVs1n4W', 'Admin', 'User', 'admin');
+('admin', 'admin@artloop.com', '$2y$10$evQSAqwP7kckNK/AqSMR..5CK9s2c0jACoqRNe2lJ331G.58dnoMK', 'Admin', 'User', 'admin');
